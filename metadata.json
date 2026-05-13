@@ -1,6 +1,0 @@
-{
-  "name": "Anmol Arpon Invoice",
-  "description": "A comprehensive invoice and order management portal showing company-wise invoice details.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
